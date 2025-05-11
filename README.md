@@ -1,5 +1,5 @@
 # netflix_sql_project
-
+netflix logo{https://github.com/Vaibhavsharma9528/netflix_sql_project/blob/main/logo.png}
 
 # 🎬 Netflix Data Analysis Using SQL
 
